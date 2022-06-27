@@ -20,6 +20,13 @@
 			"userName": "muhammadaews",
 			"encrypted": {
 				"token": "wcBMA8xOaBJvzJNbAQf/VnC2mRUJsoof7X02D7viyyWnauJLmlb+5G9XlGEJm1zcp0DHRrGcrb/fLx7bZVYEJ5ul6C0kkht60ewstga25qFFvvVMDZJZnGPv/NMJa35tRPJsl6YsFavDf/wHrbNof+znthROe5GYXn81HBVzIi7ykYEYICuBMykicaJ0JdB73koUZZBTuE5g4pJH64Dh3Lamu7pD5SLTNUOu5LZXLsCp/x+9/qBPgqq2G4kqCnRfBnuqUrgwzabbjkTi6WMRS/PRmdMtmAzj1WGawZj3YTQpEoXMQtLzRxyNOHAFUBOQGffZmi7xZuUvBJM3OXh9uaT3Aca62Qyg2g5StdKvt9J4AS/nImQ8nADQDhVJpy7QufHq6HNkabftHhvCK+/oWA9jkxJVU+/hhAbFf33eWqWhqKIoXqRlcX5ug0oP1op7yTeJkechg/++XfHtoZmdyTJLbwSpkiw0Hljlday2cW4iKq29k8xdFB339YE4y5MtapzgiKsoi70C"			}
+		},
+		{
+			"matchHost": "https://maven.pkg.github.com/sultan-qa/_",
+			"hostType": "maven",
+			"userName": "muhammadaews",
+			"encrypted": {
+				"token": "wcBMA8xOaBJvzJNbAQf/VnC2mRUJsoof7X02D7viyyWnauJLmlb+5G9XlGEJm1zcp0DHRrGcrb/fLx7bZVYEJ5ul6C0kkht60ewstga25qFFvvVMDZJZnGPv/NMJa35tRPJsl6YsFavDf/wHrbNof+znthROe5GYXn81HBVzIi7ykYEYICuBMykicaJ0JdB73koUZZBTuE5g4pJH64Dh3Lamu7pD5SLTNUOu5LZXLsCp/x+9/qBPgqq2G4kqCnRfBnuqUrgwzabbjkTi6WMRS/PRmdMtmAzj1WGawZj3YTQpEoXMQtLzRxyNOHAFUBOQGffZmi7xZuUvBJM3OXh9uaT3Aca62Qyg2g5StdKvt9J4AS/nImQ8nADQDhVJpy7QufHq6HNkabftHhvCK+/oWA9jkxJVU+/hhAbFf33eWqWhqKIoXqRlcX5ug0oP1op7yTeJkechg/++XfHtoZmdyTJLbwSpkiw0Hljlday2cW4iKq29k8xdFB339YE4y5MtapzgiKsoi70C"			}
 		}
 	],
 	"remediateSettings": {
