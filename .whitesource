@@ -15,11 +15,12 @@
 	},
 	"hostRules": [
 		{
-			"matchHost": "https://maven.pkg.github.com/MuhammadAEws/_",
+			"matchHost": "https://maven.pkg.github.com/Gal-Doron/_",
 			"hostType": "gradle",
 			"userName": "muhammadaews",
 			"encrypted": {
-				"token": "wcBMA8xOaBJvzJNbAQf/VnC2mRUJsoof7X02D7viyyWnauJLmlb+5G9XlGEJm1zcp0DHRrGcrb/fLx7bZVYEJ5ul6C0kkht60ewstga25qFFvvVMDZJZnGPv/NMJa35tRPJsl6YsFavDf/wHrbNof+znthROe5GYXn81HBVzIi7ykYEYICuBMykicaJ0JdB73koUZZBTuE5g4pJH64Dh3Lamu7pD5SLTNUOu5LZXLsCp/x+9/qBPgqq2G4kqCnRfBnuqUrgwzabbjkTi6WMRS/PRmdMtmAzj1WGawZj3YTQpEoXMQtLzRxyNOHAFUBOQGffZmi7xZuUvBJM3OXh9uaT3Aca62Qyg2g5StdKvt9J4AS/nImQ8nADQDhVJpy7QufHq6HNkabftHhvCK+/oWA9jkxJVU+/hhAbFf33eWqWhqKIoXqRlcX5ug0oP1op7yTeJkechg/++XfHtoZmdyTJLbwSpkiw0Hljlday2cW4iKq29k8xdFB339YE4y5MtapzgiKsoi70C"			}
+				"token": "wcBMA8xOaBJvzJNbAQf/R9Zqo2nk7JXgUjoZnRoBIQbE+uHXgbeLn8cMzhSd78c9EcTfI0tuzi3TBF4m929KnTk7hQyZXYOghVMsEWcc69LcR6e37kE5YZqYH+SXFydZ1XmEnKI80AjVZhkI2MHUN6S5vAzkSOFs/JkDxRljlqk0IzU1dPRP8foc7vemfMf9gUfEgUDYxtcw1l06ImDPbbjvPs4T5rbfnh/XA2S2mSnZruRSSp5B2FILw6hQMudDCmim92eAtiaxJAX1LPb1QXjDmZxan3vAQ6xcmMET6W70obeykb+GkkoY7nQf2n3osRmSaZJqU1MR1U46TqAp4Cv8/ryv4HxghnxqWKtF2tJ4AUvC1o44PEno5ht3tZLDw9k3gVlil8pFpcEOTYAd1nBztWkfT9Wp9jYf0WedRb19rwxEYrsUkL12QhcXdXRBtIlGrqNjc7fMlmKWAXPKMzA58qXyOBe5M/3MrEmIuwxZeWG4w0PPmbDJOi1V1P0LifNQzG2+rZG4"	
+				}
 		}
 	],
 	"remediateSettings": {
