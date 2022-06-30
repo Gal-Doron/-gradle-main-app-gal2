@@ -15,7 +15,7 @@
 	},
 	"hostRules": [
 		{
-			"matchHost": "https://maven.pkg.github.com/MuhammadAEws/_",
+			"matchHost": "https://maven.pkg.github.com/muhammadaews/_",
 			"hostType": "gradle",
 			"userName": "MuhammadAEws",
 			"encrypted": {
