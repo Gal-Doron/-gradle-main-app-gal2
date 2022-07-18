@@ -17,7 +17,7 @@
 		{
 			"matchHost": "https://maven.pkg.github.com/gal-doron/_",
 			"hostType": "gradle",
-			"userName": "muhammadaews",
+			"username": "muhammadaews",
 			"encrypted": {
 				"token": "wcBMA8xOaBJvzJNbAQf/R9Zqo2nk7JXgUjoZnRoBIQbE+uHXgbeLn8cMzhSd78c9EcTfI0tuzi3TBF4m929KnTk7hQyZXYOghVMsEWcc69LcR6e37kE5YZqYH+SXFydZ1XmEnKI80AjVZhkI2MHUN6S5vAzkSOFs/JkDxRljlqk0IzU1dPRP8foc7vemfMf9gUfEgUDYxtcw1l06ImDPbbjvPs4T5rbfnh/XA2S2mSnZruRSSp5B2FILw6hQMudDCmim92eAtiaxJAX1LPb1QXjDmZxan3vAQ6xcmMET6W70obeykb+GkkoY7nQf2n3osRmSaZJqU1MR1U46TqAp4Cv8/ryv4HxghnxqWKtF2tJ4AUvC1o44PEno5ht3tZLDw9k3gVlil8pFpcEOTYAd1nBztWkfT9Wp9jYf0WedRb19rwxEYrsUkL12QhcXdXRBtIlGrqNjc7fMlmKWAXPKMzA58qXyOBe5M/3MrEmIuwxZeWG4w0PPmbDJOi1V1P0LifNQzG2+rZG4"	
 				}
