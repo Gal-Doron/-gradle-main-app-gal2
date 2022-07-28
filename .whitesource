@@ -12,7 +12,7 @@
 	"issueSettings": {
 		"minSeverityLevel": "LOW",
 		"issueType": "DEPENDENCY"
-	},
+	}, 
 	"hostRules": [
 		{
 			"matchHost": "https://maven.pkg.github.com/gal-doron/_",
